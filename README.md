@@ -4,7 +4,7 @@ Reproducible Python pipeline for a secondary analysis of the 2022 Kenya Demograp
 with a **county-level geospatial component** (empirical Bayes smoothing, Moran's I, LISA) and
 **choropleth mapping** (static and interactive).
 
-Author: Abigael Chepngeno ([@Independent-Learner1](https://github.com/Independent-Learner1)), MPH, Anglia Ruskin University (Major Project MOD009130).
+Author: Briton Kavulavu ([@Independent-Learner1](https://github.com/Independent-Learner1)).
 
 ## What it does
 | Step | Script | Output |
