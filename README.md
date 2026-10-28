@@ -56,4 +56,4 @@ run_all.py
 ```
 
 ## Citation
-Chepngeno, A. (2026) *Physical intimate partner violence during pregnancy, maternal healthcare seeking and child survival in Kenya: analysis code (KDHS 2022)*. GitHub: https://github.com/Independent-Learner1/kenya-ipv-pregnancy-kdhs
+Kavulavu, B. (2026) *Physical intimate partner violence during pregnancy, maternal healthcare seeking and child survival in Kenya: analysis code (KDHS 2022)*. GitHub: https://github.com/Independent-Learner1/kenya-ipv-pregnancy-kdhs
