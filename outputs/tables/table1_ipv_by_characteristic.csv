@@ -1,0 +1,22 @@
+Variable,Category,n,Weighted IPV in pregnancy (%)
+AgeGroup,15-19,423,1.42
+AgeGroup,20-29,4414,2.7
+AgeGroup,30-39,3143,2.94
+AgeGroup,40-49,579,2.55
+V106,No education,1576,3.0
+V106,Primary,3079,4.04
+V106,Secondary,2641,2.36
+V106,Higher,1263,0.72
+V190,Poorest,2527,3.85
+V190,Poorer,1424,3.56
+V190,Middle,1562,3.06
+V190,Richer,1777,2.19
+V190,Richest,1269,1.25
+Urban,Rural,5492,3.09
+Urban,Urban,3067,2.09
+Parity,1 birth,2088,0.34
+Parity,2-3 births,3591,3.55
+Parity,4+ births,2880,3.98
+PartnerEduc,None/primary,3718,4.32
+PartnerEduc,Secondary/higher,3341,2.48
+Overall,All,8559,2.7

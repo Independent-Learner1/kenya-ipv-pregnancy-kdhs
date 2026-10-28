@@ -1,0 +1,72 @@
+Model,Term,aOR,CI_low,CI_high,p,n
+4+ antenatal visits,C(AgeGroup)[T.2.0],1.5715,1.0792,2.2885,0.0184,5138
+4+ antenatal visits,C(AgeGroup)[T.3.0],1.8241,1.2043,2.7629,0.0045,5138
+4+ antenatal visits,C(AgeGroup)[T.4.0],1.6424,0.9925,2.7179,0.0535,5138
+4+ antenatal visits,C(V106)[T.1.0],0.904,0.6534,1.2508,0.5424,5138
+4+ antenatal visits,C(V106)[T.2.0],0.9422,0.6562,1.3529,0.7471,5138
+4+ antenatal visits,C(V106)[T.3.0],1.1736,0.7743,1.7788,0.4507,5138
+4+ antenatal visits,C(Parity)[T.2],0.5724,0.4615,0.71,0.0,5138
+4+ antenatal visits,C(Parity)[T.3],0.3869,0.2941,0.5089,0.0,5138
+4+ antenatal visits,IPV_preg,0.7817,0.5295,1.154,0.2153,5138
+4+ antenatal visits,V190,1.1279,1.0349,1.2293,0.0061,5138
+4+ antenatal visits,Urban,1.1291,0.8846,1.4412,0.3295,5138
+4+ antenatal visits,PartnerEduc,1.4632,1.2248,1.748,0.0,5138
+ANC in first trimester,C(AgeGroup)[T.2.0],1.1458,0.7771,1.6893,0.4921,4944
+ANC in first trimester,C(AgeGroup)[T.3.0],1.0902,0.7099,1.6741,0.6932,4944
+ANC in first trimester,C(AgeGroup)[T.4.0],1.5014,0.8889,2.5358,0.1286,4944
+ANC in first trimester,C(V106)[T.1.0],0.8096,0.5516,1.1883,0.2807,4944
+ANC in first trimester,C(V106)[T.2.0],0.8018,0.5299,1.2134,0.296,4944
+ANC in first trimester,C(V106)[T.3.0],1.582,1.013,2.4704,0.0437,4944
+ANC in first trimester,C(Parity)[T.2],0.6986,0.5779,0.8445,0.0002,4944
+ANC in first trimester,C(Parity)[T.3],0.6002,0.4577,0.7871,0.0002,4944
+ANC in first trimester,IPV_preg,1.1013,0.718,1.6892,0.6584,4944
+ANC in first trimester,V190,1.2017,1.0992,1.3138,0.0001,4944
+ANC in first trimester,Urban,0.8444,0.6674,1.0683,0.1588,4944
+ANC in first trimester,PartnerEduc,1.0278,0.8531,1.2382,0.7733,4944
+Facility delivery,C(AgeGroup)[T.2.0],0.911,0.4983,1.6655,0.762,5142
+Facility delivery,C(AgeGroup)[T.3.0],0.8357,0.4285,1.6297,0.5984,5142
+Facility delivery,C(AgeGroup)[T.4.0],0.6988,0.3188,1.5318,0.3708,5142
+Facility delivery,C(V106)[T.1.0],2.313,1.5755,3.3957,0.0,5142
+Facility delivery,C(V106)[T.2.0],2.6614,1.618,4.3778,0.0001,5142
+Facility delivery,C(V106)[T.3.0],8.0436,3.0383,21.2944,0.0,5142
+Facility delivery,C(Parity)[T.2],0.7689,0.497,1.1894,0.2377,5142
+Facility delivery,C(Parity)[T.3],0.4841,0.2979,0.7867,0.0034,5142
+Facility delivery,IPV_preg,1.2422,0.6418,2.4043,0.5197,5142
+Facility delivery,V190,1.6405,1.4057,1.9146,0.0,5142
+Facility delivery,Urban,2.034,1.2059,3.4308,0.0078,5142
+Facility delivery,PartnerEduc,1.7295,1.2503,2.3924,0.0009,5142
+Postnatal check within 48h,C(AgeGroup)[T.2.0],1.4651,0.9923,2.163,0.0547,5140
+Postnatal check within 48h,C(AgeGroup)[T.3.0],1.8118,1.1678,2.8109,0.008,5140
+Postnatal check within 48h,C(AgeGroup)[T.4.0],1.6577,0.9642,2.8502,0.0675,5140
+Postnatal check within 48h,C(V106)[T.1.0],1.7268,1.2315,2.4213,0.0015,5140
+Postnatal check within 48h,C(V106)[T.2.0],1.7485,1.1934,2.562,0.0041,5140
+Postnatal check within 48h,C(V106)[T.3.0],2.3442,1.4917,3.6838,0.0002,5140
+Postnatal check within 48h,C(Parity)[T.2],1.0414,0.8271,1.3112,0.73,5140
+Postnatal check within 48h,C(Parity)[T.3],0.834,0.6186,1.1243,0.2336,5140
+Postnatal check within 48h,IPV_preg,0.915,0.593,1.412,0.6883,5140
+Postnatal check within 48h,V190,1.3099,1.1876,1.4447,0.0,5140
+Postnatal check within 48h,Urban,0.734,0.5543,0.9719,0.0309,5140
+Postnatal check within 48h,PartnerEduc,1.4841,1.215,1.8129,0.0001,5140
+Child alive,C(AgeGroup)[T.2.0],1.447,0.5601,3.7379,0.4455,7059
+Child alive,C(AgeGroup)[T.3.0],1.2641,0.4429,3.608,0.6614,7059
+Child alive,C(AgeGroup)[T.4.0],0.7499,0.2312,2.4321,0.6316,7059
+Child alive,C(V106)[T.1.0],1.0456,0.5369,2.0364,0.8957,7059
+Child alive,C(V106)[T.2.0],1.0109,0.4667,2.1898,0.9781,7059
+Child alive,C(V106)[T.3.0],1.5127,0.5756,3.9751,0.4011,7059
+Child alive,C(Parity)[T.2],1.1805,0.6861,2.0311,0.5489,7059
+Child alive,C(Parity)[T.3],1.2549,0.6166,2.5538,0.5312,7059
+Child alive,IPV_preg,0.43,0.2075,0.8912,0.0232,7059
+Child alive,V190,1.0104,0.815,1.2528,0.9245,7059
+Child alive,Urban,0.9863,0.5701,1.7062,0.9606,7059
+Child alive,PartnerEduc,1.3043,0.8192,2.0768,0.2629,7059
+Predictors of IPV in pregnancy,C(AgeGroup)[T.2.0],0.5455,0.2179,1.3655,0.1955,7059
+Predictors of IPV in pregnancy,C(AgeGroup)[T.3.0],0.3713,0.1413,0.9755,0.0444,7059
+Predictors of IPV in pregnancy,C(AgeGroup)[T.4.0],0.3297,0.108,1.0071,0.0515,7059
+Predictors of IPV in pregnancy,C(V106)[T.1.0],1.7441,1.001,3.0388,0.0496,7059
+Predictors of IPV in pregnancy,C(V106)[T.2.0],1.6219,0.8585,3.0641,0.1363,7059
+Predictors of IPV in pregnancy,C(V106)[T.3.0],0.6746,0.2735,1.6638,0.3927,7059
+Predictors of IPV in pregnancy,C(Parity)[T.2],9.3926,4.1797,21.1067,0.0,7059
+Predictors of IPV in pregnancy,C(Parity)[T.3],9.5038,3.9417,22.9146,0.0,7059
+Predictors of IPV in pregnancy,V190,0.808,0.6819,0.9574,0.0138,7059
+Predictors of IPV in pregnancy,Urban,1.2677,0.8047,1.997,0.3064,7059
+Predictors of IPV in pregnancy,PartnerEduc,0.9732,0.6823,1.3882,0.881,7059

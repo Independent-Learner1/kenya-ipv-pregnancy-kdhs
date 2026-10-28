@@ -1,0 +1,9 @@
+# Restricted DHS microdata must never be committed
+data/raw/*
+!data/raw/.gitkeep
+data/processed/analytic_dataset.csv
+*.SAV
+*.sav
+*.dta
+__pycache__/
+.ipynb_checkpoints/

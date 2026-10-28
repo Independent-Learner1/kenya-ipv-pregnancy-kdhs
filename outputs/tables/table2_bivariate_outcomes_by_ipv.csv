@@ -1,0 +1,6 @@
+Outcome,n,% among IPV,% among no IPV,Chi-square (weighted),p
+4+ antenatal visits,6106,56.7,66.6,4.8,0.0285
+ANC in first trimester,5884,27.9,30.4,0.23,0.6288
+Facility delivery,6114,87.1,89.0,0.29,0.5884
+Postnatal check within 48h,6112,73.6,77.4,0.82,0.366
+Child alive,8559,95.5,98.1,5.44,0.0197

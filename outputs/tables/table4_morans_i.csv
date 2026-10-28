@@ -1,0 +1,3 @@
+Indicator,Moran_I,Expected_I,z_sim,p_sim
+IPV in pregnancy,0.164,-0.022,2.06,0.0275
+Adequate ANC (4+ visits),0.295,-0.022,3.54,0.0011
